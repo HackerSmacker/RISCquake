@@ -1,0 +1,24 @@
+snd_sun.c(24): Error! E1055: Unable to open 'sys/ioctl.h'
+snd_sun.c(25): Error! E1055: Unable to open 'sys/mman.h'
+snd_sun.c(26): Error! E1055: Unable to open 'sys/shm.h'
+snd_sun.c(27): Error! E1055: Unable to open 'sys/wait.h'
+snd_sun.c(29): Error! E1055: Unable to open 'sys/audioio.h'
+snd_sun.c(38): Error! E1022: Missing or misspelled data type near 'audio_info_t'
+snd_sun.c(65): Error! E1011: Symbol 'O_NDELAY' has not been declared
+snd_sun.c(73): Error! E1096: Inconsistent use of return statements
+snd_sun.c(76): Warning! W131: No prototype found for function 'ioctl'
+snd_sun.c(76): Error! E1011: Symbol 'AUDIO_GETINFO' has not been declared
+snd_sun.c(80): Error! E1096: Inconsistent use of return statements
+snd_sun.c(86): Warning! W131: No prototype found for function 'fcntl'
+snd_sun.c(86): Error! E1011: Symbol 'F_SETFL' has not been declared
+snd_sun.c(86): Error! E1011: Symbol 'O_NONBLOCK' has not been declared
+snd_sun.c(89): Error! E1096: Inconsistent use of return statements
+snd_sun.c(92): Warning! W131: No prototype found for function 'AUDIO_INITINFO'
+snd_sun.c(97): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_sun.c(97): Error! E1011: Symbol 'AUDIO_ENCODING_LINEAR' has not been declared
+snd_sun.c(98): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_sun.c(99): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_sun.c(100): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_sun.c(102): Error! E1011: Symbol 'AUDIO_SETINFO' has not been declared
+snd_sun.c(103): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_sun.c(104): Error! E1147: Too many errors: compilation aborted

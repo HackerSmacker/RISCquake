@@ -1,0 +1,3 @@
+vid_vga.c(32): Error! E1055: Unable to open 'dpmi.h'
+vid_vga.c(86): Warning! W131: No prototype found for function 'outportb'
+vid_vga.c(219): Warning! W131: No prototype found for function 'inportb'

@@ -1,0 +1,23 @@
+net_ipx.c(24): Error! E1055: Unable to open 'dpmi.h'
+net_ipx.c(147): Warning! W131: No prototype found for function '__dpmi_simulate_real_mode_procedure_retf'
+net_ipx.c(147): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(147): Error! E1063: Missing operand
+net_ipx.c(162): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(162): Error! E1063: Missing operand
+net_ipx.c(178): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(178): Error! E1063: Missing operand
+net_ipx.c(188): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(188): Error! E1063: Missing operand
+net_ipx.c(243): Warning! W131: No prototype found for function '__dpmi_simulate_real_mode_interrupt'
+net_ipx.c(243): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(243): Error! E1063: Missing operand
+net_ipx.c(349): Warning! W131: No prototype found for function 'htons'
+net_ipx.c(350): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(350): Error! E1063: Missing operand
+net_ipx.c(406): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(406): Error! E1063: Missing operand
+net_ipx.c(471): Warning! W131: No prototype found for function 'ntohs'
+net_ipx.c(542): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(542): Error! E1063: Missing operand
+net_ipx.c(569): Error! E1011: Symbol '__dpmi_regs' has not been declared
+net_ipx.c(569): Error! E1063: Missing operand

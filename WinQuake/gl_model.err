@@ -1,0 +1,23 @@
+gl_model.c(390): Error! E1011: Symbol 'texture_mode' has not been declared
+gl_model.c(390): Error! E1011: Symbol 'GL_LINEAR_MIPMAP_NEAREST' has not been declared
+gl_model.c(391): Error! E1031: Name 'gl_texturenum' not found in struct/union texture_s
+gl_model.c(391): Warning! W131: No prototype found for function 'GL_LoadTexture'
+gl_model.c(392): Error! E1011: Symbol 'GL_LINEAR' has not been declared
+gl_model.c(806): Warning! W131: No prototype found for function 'GL_SubdivideSurface'
+gl_model.c(937): Error! E1011: Symbol 'SURF_UNDERWATER' has not been declared
+gl_model.c(1236): Error! E1011: Symbol 'MAXALIASVERTS' has not been declared
+gl_model.c(1236): Error! E1054: Expression must be constant
+gl_model.c(1237): Error! E1011: Symbol 'MAXALIASTRIS' has not been declared
+gl_model.c(1237): Error! E1054: Expression must be constant
+gl_model.c(1241): Error! E1011: Symbol 'MAXALIASFRAMES' has not been declared
+gl_model.c(1241): Error! E1054: Expression must be constant
+gl_model.c(1261): Error! E1031: Name 'firstpose' not found in struct/union 
+gl_model.c(1262): Error! E1031: Name 'numposes' not found in struct/union 
+gl_model.c(1277): Error! E1031: Name 'numverts' not found in struct/union 
+gl_model.c(1299): Error! E1031: Name 'firstpose' not found in struct/union 
+gl_model.c(1300): Error! E1031: Name 'numposes' not found in struct/union 
+gl_model.c(1311): Error! E1031: Name 'interval' not found in struct/union 
+gl_model.c(1322): Error! E1031: Name 'numverts' not found in struct/union 
+gl_model.c(1425): Error! E1011: Symbol 'MAX_SKINS' has not been declared
+gl_model.c(1428): Error! E1031: Name 'skinwidth' not found in struct/union 
+gl_model.c(1428): Error! E1147: Too many errors: compilation aborted

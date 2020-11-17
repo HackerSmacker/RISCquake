@@ -1,0 +1,26 @@
+gl_rlight.c(44): Error! E1011: Symbol 'd_lightstylevalue' has not been declared
+gl_rlight.c(44): Error! E1045: Subscript on non-array
+gl_rlight.c(50): Error! E1011: Symbol 'd_lightstylevalue' has not been declared
+gl_rlight.c(50): Error! E1045: Subscript on non-array
+gl_rlight.c(91): Warning! W131: No prototype found for function 'glBegin'
+gl_rlight.c(91): Error! E1011: Symbol 'GL_TRIANGLE_FAN' has not been declared
+gl_rlight.c(92): Warning! W131: No prototype found for function 'glColor3f'
+gl_rlight.c(95): Warning! W131: No prototype found for function 'glVertex3fv'
+gl_rlight.c(105): Warning! W131: No prototype found for function 'glEnd'
+gl_rlight.c(118): Error! E1011: Symbol 'gl_flashblend' has not been declared
+gl_rlight.c(118): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+gl_rlight.c(123): Warning! W131: No prototype found for function 'glDepthMask'
+gl_rlight.c(124): Warning! W131: No prototype found for function 'glDisable'
+gl_rlight.c(124): Error! E1011: Symbol 'GL_TEXTURE_2D' has not been declared
+gl_rlight.c(125): Warning! W131: No prototype found for function 'glShadeModel'
+gl_rlight.c(125): Error! E1011: Symbol 'GL_SMOOTH' has not been declared
+gl_rlight.c(126): Warning! W131: No prototype found for function 'glEnable'
+gl_rlight.c(126): Error! E1011: Symbol 'GL_BLEND' has not been declared
+gl_rlight.c(127): Warning! W131: No prototype found for function 'glBlendFunc'
+gl_rlight.c(127): Error! E1011: Symbol 'GL_ONE' has not been declared
+gl_rlight.c(140): Error! E1011: Symbol 'GL_SRC_ALPHA' has not been declared
+gl_rlight.c(140): Error! E1011: Symbol 'GL_ONE_MINUS_SRC_ALPHA' has not been declared
+gl_rlight.c(209): Error! E1011: Symbol 'gl_flashblend' has not been declared
+gl_rlight.c(209): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+gl_rlight.c(319): Error! E1011: Symbol 'd_lightstylevalue' has not been declared
+gl_rlight.c(319): Error! E1045: Subscript on non-array

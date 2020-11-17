@@ -1,0 +1,35 @@
+sys_sun.c(27): Error! E1055: Unable to open 'sys/mman.h'
+sys_sun.c(28): Error! E1055: Unable to open 'sys/param.h'
+sys_sun.c(33): Error! E1055: Unable to open 'sys/mman.h'
+sys_sun.c(103): Warning! W131: No prototype found for function 'mmap'
+sys_sun.c(103): Error! E1011: Symbol 'PROT_READ' has not been declared
+sys_sun.c(103): Error! E1011: Symbol 'MAP_SHARED' has not been declared
+sys_sun.c(103): Warning! W102: Type mismatch (warning)
+sys_sun.c(103): Note! I2003: source conversion type is 'int'
+sys_sun.c(103): Note! I2004: target conversion type is 'char *'
+sys_sun.c(136): Warning! W131: No prototype found for function 'munmap'
+sys_sun.c(190): Warning! W131: No prototype found for function 'mkdir'
+sys_sun.c(206): Warning! W131: No prototype found for function 'getpagesize'
+sys_sun.c(213): Warning! W131: No prototype found for function 'mprotect'
+sys_sun.c(270): Error! E1011: Symbol 'fd_set' has not been declared
+sys_sun.c(270): Error! E1009: Expecting ';' but found 'readfds'
+sys_sun.c(270): Error! E1011: Symbol 'readfds' has not been declared
+sys_sun.c(271): Error! E1077: Missing '}'
+sys_sun.c(271): Warning! W107: Missing return value for function 'Sys_ConsoleInput'
+sys_sun.c(274): Warning! W132: No storage class or type specified
+sys_sun.c(274): Error! E1129: Type does not agree with previous definition of 'timeout'
+sys_sun.c(274): Note! I2002: 'timeout' defined in: sys_sun.c(272)
+sys_sun.c(274): Error! E1009: Expecting ';' but found '.'
+sys_sun.c(274): Error! E1061: Expecting data or function declaration, but found '.'
+sys_sun.c(274): Warning! W132: No storage class or type specified
+sys_sun.c(275): Warning! W132: No storage class or type specified
+sys_sun.c(275): Error! E1009: Expecting ';' but found '.'
+sys_sun.c(275): Error! E1061: Expecting data or function declaration, but found '.'
+sys_sun.c(275): Warning! W132: No storage class or type specified
+sys_sun.c(276): Error! E1009: Expecting ')' but found '&'
+sys_sun.c(276): Error! E1026: Invalid declarator
+sys_sun.c(276): Error! E1009: Expecting ',' but found '&'
+sys_sun.c(276): Error! E1024: Declared symbol 'readfds' is not in parameter list
+sys_sun.c(276): Error! E1009: Expecting ',' but found ')'
+sys_sun.c(276): Error! E1026: Invalid declarator
+sys_sun.c(277): Error! E1147: Too many errors: compilation aborted

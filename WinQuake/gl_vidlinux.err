@@ -1,0 +1,24 @@
+gl_vidlinux.c(20): Error! E1055: Unable to open 'termios.h'
+gl_vidlinux.c(21): Error! E1055: Unable to open 'sys/ioctl.h'
+gl_vidlinux.c(23): Error! E1055: Unable to open 'sys/vt.h'
+gl_vidlinux.c(28): Error! E1055: Unable to open 'asm/io.h'
+gl_vidlinux.c(29): Error! E1055: Unable to open 'dlfcn.h'
+gl_vidlinux.c(32): Error! E1055: Unable to open 'vgakeyboard.h'
+gl_vidlinux.c(33): Error! E1055: Unable to open 'vgamouse.h'
+gl_vidlinux.c(36): Error! E1055: Unable to open 'GL/fxmesa.h'
+gl_vidlinux.c(41): Error! E1022: Missing or misspelled data type near 'fxMesaContext'
+gl_vidlinux.c(41): Warning! W102: Type mismatch (warning)
+gl_vidlinux.c(41): Note! I2003: source conversion type is 'void *'
+gl_vidlinux.c(41): Note! I2004: target conversion type is 'int'
+gl_vidlinux.c(56): Error! E1011: Symbol 'MOUSE_MICROSOFT' has not been declared
+gl_vidlinux.c(56): Error! E1054: Expression must be constant
+gl_vidlinux.c(57): Error! E1011: Symbol 'MOUSE_MOUSESYSTEMS' has not been declared
+gl_vidlinux.c(57): Error! E1054: Expression must be constant
+gl_vidlinux.c(58): Error! E1011: Symbol 'MOUSE_MMSERIES' has not been declared
+gl_vidlinux.c(58): Error! E1054: Expression must be constant
+gl_vidlinux.c(59): Error! E1011: Symbol 'MOUSE_LOGITECH' has not been declared
+gl_vidlinux.c(59): Error! E1054: Expression must be constant
+gl_vidlinux.c(60): Error! E1011: Symbol 'MOUSE_BUSMOUSE' has not been declared
+gl_vidlinux.c(60): Error! E1054: Expression must be constant
+gl_vidlinux.c(61): Error! E1011: Symbol 'MOUSE_PS2' has not been declared
+gl_vidlinux.c(61): Error! E1147: Too many errors: compilation aborted

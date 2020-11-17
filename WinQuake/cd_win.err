@@ -1,0 +1,23 @@
+cd_win.c(23): Error! E1055: Unable to open 'windows.h'
+cd_win.c(26): Error! E1022: Missing or misspelled data type near 'HWND'
+cd_win.c(41): Error! E1022: Missing or misspelled data type near 'UINT'
+cd_win.c(41): Warning! W132: No storage class or type specified
+cd_win.c(46): Error! E1011: Symbol 'DWORD' has not been declared
+cd_win.c(46): Error! E1009: Expecting ';' but found 'dwReturn'
+cd_win.c(46): Error! E1011: Symbol 'dwReturn' has not been declared
+cd_win.c(48): Warning! W131: No prototype found for function 'mciSendCommand'
+cd_win.c(48): Error! E1011: Symbol 'MCI_SET' has not been declared
+cd_win.c(48): Error! E1011: Symbol 'MCI_SET_DOOR_OPEN' has not been declared
+cd_win.c(48): Error! E1012: Expression is not a function
+cd_win.c(55): Error! E1011: Symbol 'DWORD' has not been declared
+cd_win.c(55): Error! E1009: Expecting ';' but found 'dwReturn'
+cd_win.c(55): Error! E1011: Symbol 'dwReturn' has not been declared
+cd_win.c(57): Error! E1011: Symbol 'MCI_SET' has not been declared
+cd_win.c(57): Error! E1011: Symbol 'MCI_SET_DOOR_CLOSED' has not been declared
+cd_win.c(57): Error! E1012: Expression is not a function
+cd_win.c(64): Error! E1011: Symbol 'DWORD' has not been declared
+cd_win.c(64): Error! E1009: Expecting ';' but found 'dwReturn'
+cd_win.c(64): Error! E1011: Symbol 'dwReturn' has not been declared
+cd_win.c(65): Error! E1011: Symbol 'MCI_STATUS_PARMS' has not been declared
+cd_win.c(65): Error! E1009: Expecting ';' but found 'mciStatusParms'
+cd_win.c(65): Error! E1147: Too many errors: compilation aborted

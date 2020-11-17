@@ -1,0 +1,25 @@
+gl_draw.c(54): Error! E1011: Symbol 'GL_LINEAR_MIPMAP_NEAREST' has not been declared
+gl_draw.c(54): Error! E1054: Expression must be constant
+gl_draw.c(55): Error! E1011: Symbol 'GL_LINEAR' has not been declared
+gl_draw.c(55): Error! E1054: Expression must be constant
+gl_draw.c(77): Error! E1011: Symbol 'currenttexture' has not been declared
+gl_draw.c(81): Warning! W131: No prototype found for function 'bindTexFunc'
+gl_draw.c(81): Error! E1011: Symbol 'GL_TEXTURE_2D' has not been declared
+gl_draw.c(148): Warning! W107: Missing return value for function 'Scrap_AllocBlock'
+gl_draw.c(160): Warning! W131: No prototype found for function 'GL_Upload8'
+gl_draw.c(217): Warning! W131: No prototype found for function 'GL_LoadPicTexture'
+gl_draw.c(307): Error! E1011: Symbol 'GL_NEAREST' has not been declared
+gl_draw.c(307): Error! E1054: Expression must be constant
+gl_draw.c(307): Error! E1054: Expression must be constant
+gl_draw.c(308): Error! E1054: Expression must be constant
+gl_draw.c(308): Error! E1054: Expression must be constant
+gl_draw.c(309): Error! E1011: Symbol 'GL_NEAREST_MIPMAP_NEAREST' has not been declared
+gl_draw.c(309): Error! E1054: Expression must be constant
+gl_draw.c(309): Error! E1054: Expression must be constant
+gl_draw.c(310): Error! E1054: Expression must be constant
+gl_draw.c(310): Error! E1054: Expression must be constant
+gl_draw.c(311): Error! E1011: Symbol 'GL_NEAREST_MIPMAP_LINEAR' has not been declared
+gl_draw.c(311): Error! E1054: Expression must be constant
+gl_draw.c(311): Error! E1054: Expression must be constant
+gl_draw.c(312): Error! E1011: Symbol 'GL_LINEAR_MIPMAP_LINEAR' has not been declared
+gl_draw.c(312): Error! E1147: Too many errors: compilation aborted

@@ -1,0 +1,36 @@
+dos_v2.c(20): Error! E1055: Unable to open 'sys/segments.h'
+dos_v2.c(21): Error! E1055: Unable to open 'go32.h'
+dos_v2.c(23): Error! E1055: Unable to open 'sys/nearptr.h'
+dos_v2.c(26): Error! E1055: Unable to open 'dpmi.h'
+dos_v2.c(32): Error! E1022: Missing or misspelled data type near '_go32_dpmi_registers'
+dos_v2.c(32): Warning! W132: No storage class or type specified
+dos_v2.c(40): Error! E1022: Missing or misspelled data type near '__dpmi_regs'
+dos_v2.c(40): Warning! W132: No storage class or type specified
+dos_v2.c(46): Warning! W131: No prototype found for function '__djgpp_nearptr_enable'
+dos_v2.c(48): Error! E1011: Symbol '__djgpp_conventional_base' has not been declared
+dos_v2.c(77): Warning! W131: No prototype found for function 'inportb'
+dos_v2.c(82): Warning! W131: No prototype found for function 'inportw'
+dos_v2.c(87): Warning! W131: No prototype found for function 'outportb'
+dos_v2.c(92): Warning! W131: No prototype found for function 'outportw'
+dos_v2.c(97): Warning! W131: No prototype found for function 'enable'
+dos_v2.c(102): Warning! W131: No prototype found for function 'disable'
+dos_v2.c(113): Warning! W131: No prototype found for function '_go32_dpmi_simulate_int'
+dos_v2.c(113): Error! E1011: Symbol '_go32_dpmi_registers' has not been declared
+dos_v2.c(113): Error! E1063: Missing operand
+dos_v2.c(122): Error! E1011: Symbol '_go32_dpmi_registers' has not been declared
+dos_v2.c(122): Error! E1063: Missing operand
+dos_v2.c(122): Error! E1009: Expecting ')' but found 'outregs'
+dos_v2.c(122): Note! I2002: '_go32_dpmi_simulate_int' defined in: dos_v2.c(113)
+dos_v2.c(122): Error! E1009: Expecting ';' but found ')'
+dos_v2.c(122): Error! E1063: Missing operand
+dos_v2.c(122): Warning! W111: Meaningless use of an expression
+dos_v2.c(122): Error! E1009: Expecting ';' but found ')'
+dos_v2.c(122): Error! E1063: Missing operand
+dos_v2.c(122): Warning! W111: Meaningless use of an expression
+dos_v2.c(122): Error! E1009: Expecting ';' but found ')'
+dos_v2.c(122): Error! E1063: Missing operand
+dos_v2.c(122): Warning! W111: Meaningless use of an expression
+dos_v2.c(122): Error! E1009: Expecting ';' but found ')'
+dos_v2.c(122): Error! E1063: Missing operand
+dos_v2.c(122): Warning! W111: Meaningless use of an expression
+dos_v2.c(122): Error! E1147: Too many errors: compilation aborted

@@ -1,0 +1,21 @@
+vid_x.c(33): Error! E1055: Unable to open 'sys/ipc.h'
+vid_x.c(34): Error! E1055: Unable to open 'sys/shm.h'
+vid_x.c(35): Error! E1055: Unable to open 'X11/Xlib.h'
+vid_x.c(36): Error! E1055: Unable to open 'X11/Xutil.h'
+vid_x.c(37): Error! E1055: Unable to open 'X11/Xatom.h'
+vid_x.c(38): Error! E1055: Unable to open 'X11/keysym.h'
+vid_x.c(39): Error! E1055: Unable to open 'X11/extensions/XShm.h'
+vid_x.c(75): Error! E1022: Missing or misspelled data type near 'Display'
+vid_x.c(76): Error! E1022: Missing or misspelled data type near 'Colormap'
+vid_x.c(77): Error! E1022: Missing or misspelled data type near 'Window'
+vid_x.c(78): Error! E1022: Missing or misspelled data type near 'GC'
+vid_x.c(79): Error! E1022: Missing or misspelled data type near 'Visual'
+vid_x.c(80): Error! E1022: Missing or misspelled data type near 'XVisualInfo'
+vid_x.c(88): Error! E1009: Expecting ',' but found '*'
+vid_x.c(88): Error! E1116: An id list not allowed except for function definition
+vid_x.c(89): Error! E1009: Expecting ',' but found '*'
+vid_x.c(89): Error! E1116: An id list not allowed except for function definition
+vid_x.c(92): Error! E1022: Missing or misspelled data type near 'XImage'
+vid_x.c(93): Error! E1022: Missing or misspelled data type near 'XShmSegmentInfo'
+vid_x.c(120): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+vid_x.c(121): Error! E1147: Too many errors: compilation aborted

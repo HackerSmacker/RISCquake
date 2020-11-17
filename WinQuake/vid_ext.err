@@ -1,0 +1,11 @@
+vid_ext.c(34): Error! E1055: Unable to open 'dpmi.h'
+vid_ext.c(236): Warning! W131: No prototype found for function 'inportb'
+vid_ext.c(303): Error! E1011: Symbol '__dpmi_meminfo' has not been declared
+vid_ext.c(303): Error! E1009: Expecting ';' but found 'phys_mem_info'
+vid_ext.c(303): Error! E1011: Symbol 'phys_mem_info' has not been declared
+vid_ext.c(393): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+vid_ext.c(394): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+vid_ext.c(396): Warning! W131: No prototype found for function '__dpmi_physical_address_mapping'
+vid_ext.c(400): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+vid_ext.c(400): Error! E1151: Parameter count does not agree with previous definition
+vid_ext.c(400): Note! I2002: 'real2ptr' defined in: dosisms.h(74)

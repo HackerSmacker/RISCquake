@@ -1,0 +1,22 @@
+vid_svgalib.c(20): Error! E1055: Unable to open 'termios.h'
+vid_svgalib.c(21): Error! E1055: Unable to open 'sys/ioctl.h'
+vid_svgalib.c(23): Error! E1055: Unable to open 'sys/vt.h'
+vid_svgalib.c(28): Error! E1055: Unable to open 'asm/io.h'
+vid_svgalib.c(30): Error! E1055: Unable to open 'vga.h'
+vid_svgalib.c(31): Error! E1055: Unable to open 'vgakeyboard.h'
+vid_svgalib.c(32): Error! E1055: Unable to open 'vgamouse.h'
+vid_svgalib.c(44): Error! E1022: Missing or misspelled data type near 'vga_modeinfo'
+vid_svgalib.c(44): Warning! W132: No storage class or type specified
+vid_svgalib.c(55): Error! E1011: Symbol 'MOUSE_MICROSOFT' has not been declared
+vid_svgalib.c(55): Error! E1054: Expression must be constant
+vid_svgalib.c(56): Error! E1011: Symbol 'MOUSE_MOUSESYSTEMS' has not been declared
+vid_svgalib.c(56): Error! E1054: Expression must be constant
+vid_svgalib.c(57): Error! E1011: Symbol 'MOUSE_MMSERIES' has not been declared
+vid_svgalib.c(57): Error! E1054: Expression must be constant
+vid_svgalib.c(58): Error! E1011: Symbol 'MOUSE_LOGITECH' has not been declared
+vid_svgalib.c(58): Error! E1054: Expression must be constant
+vid_svgalib.c(59): Error! E1011: Symbol 'MOUSE_BUSMOUSE' has not been declared
+vid_svgalib.c(59): Error! E1054: Expression must be constant
+vid_svgalib.c(60): Error! E1011: Symbol 'MOUSE_PS2' has not been declared
+vid_svgalib.c(60): Error! E1054: Expression must be constant
+vid_svgalib.c(75): Error! E1147: Too many errors: compilation aborted

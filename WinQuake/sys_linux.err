@@ -1,0 +1,27 @@
+sys_linux.c(11): Error! E1055: Unable to open 'sys/ipc.h'
+sys_linux.c(12): Error! E1055: Unable to open 'sys/shm.h'
+sys_linux.c(16): Error! E1055: Unable to open 'sys/wait.h'
+sys_linux.c(17): Error! E1055: Unable to open 'sys/mman.h'
+sys_linux.c(121): Warning! W131: No prototype found for function 'fcntl'
+sys_linux.c(121): Error! E1011: Symbol 'F_SETFL' has not been declared
+sys_linux.c(121): Error! E1011: Symbol 'F_GETFL' has not been declared
+sys_linux.c(121): Error! E1011: Symbol 'FNDELAY' has not been declared
+sys_linux.c(145): Error! E1011: Symbol 'F_SETFL' has not been declared
+sys_linux.c(145): Error! E1011: Symbol 'F_GETFL' has not been declared
+sys_linux.c(145): Error! E1011: Symbol 'FNDELAY' has not been declared
+sys_linux.c(188): Warning! W131: No prototype found for function 'mkdir'
+sys_linux.c(323): Error! E1011: Symbol 'fd_set' has not been declared
+sys_linux.c(323): Error! E1009: Expecting ';' but found 'fdset'
+sys_linux.c(323): Error! E1011: Symbol 'fdset' has not been declared
+sys_linux.c(324): Error! E1063: Missing operand
+sys_linux.c(324): Warning! W111: Meaningless use of an expression
+sys_linux.c(324): Error! E1009: Expecting ';' but found 'struct'
+sys_linux.c(324): Error! E1063: Missing operand
+sys_linux.c(324): Warning! W111: Meaningless use of an expression
+sys_linux.c(324): Error! E1009: Expecting ';' but found 'struct'
+sys_linux.c(324): Error! E1063: Missing operand
+sys_linux.c(324): Warning! W111: Meaningless use of an expression
+sys_linux.c(324): Error! E1009: Expecting ';' but found 'struct'
+sys_linux.c(324): Error! E1063: Missing operand
+sys_linux.c(324): Warning! W111: Meaningless use of an expression
+sys_linux.c(324): Error! E1147: Too many errors: compilation aborted

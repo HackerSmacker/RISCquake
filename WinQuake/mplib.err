@@ -1,0 +1,22 @@
+mplib.c(20): Error! E1055: Unable to open 'dpmi.h'
+mplib.c(103): Error! E1127: Type required in parameter list
+mplib.c(103): Error! E1022: Missing or misspelled data type near '__dpmi_regs'
+mplib.c(103): Error! E1127: Type required in parameter list
+mplib.c(103): Error! E1022: Missing or misspelled data type near '__dpmi_regs'
+mplib.c(113): Warning! W131: No prototype found for function '__dpmi_yield'
+mplib.c(119): Error! E1011: Symbol '__dpmi_regs' has not been declared
+mplib.c(119): Error! E1009: Expecting ';' but found 'regs'
+mplib.c(119): Error! E1011: Symbol 'regs' has not been declared
+mplib.c(121): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(122): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(123): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(130): Error! E1011: Symbol '__dpmi_regs' has not been declared
+mplib.c(130): Error! E1009: Expecting ';' but found 'regs'
+mplib.c(130): Error! E1011: Symbol 'regs' has not been declared
+mplib.c(132): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(134): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(139): Error! E1011: Symbol '__dpmi_regs' has not been declared
+mplib.c(139): Error! E1009: Expecting ';' but found 'regs'
+mplib.c(139): Error! E1011: Symbol 'regs' has not been declared
+mplib.c(141): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+mplib.c(142): Error! E1147: Too many errors: compilation aborted

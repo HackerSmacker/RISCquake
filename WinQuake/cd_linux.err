@@ -1,0 +1,22 @@
+cd_linux.c(26): Error! E1055: Unable to open 'sys/ioctl.h'
+cd_linux.c(27): Error! E1055: Unable to open 'sys/file.h'
+cd_linux.c(34): Error! E1055: Unable to open 'linux/cdrom.h'
+cd_linux.c(57): Warning! W131: No prototype found for function 'ioctl'
+cd_linux.c(57): Error! E1011: Symbol 'CDROMEJECT' has not been declared
+cd_linux.c(67): Error! E1011: Symbol 'CDROMCLOSETRAY' has not been declared
+cd_linux.c(77): Error! E1011: Symbol 'CDROMREADTOCHDR' has not been declared
+cd_linux.c(83): Error! E1031: Name 'cdth_trk0' not found in struct/union cdrom_tochdr
+cd_linux.c(90): Error! E1031: Name 'cdth_trk1' not found in struct/union cdrom_tochdr
+cd_linux.c(73): Error! E1044: Variable 'tochdr' has incomplete type
+cd_linux.c(120): Error! E1031: Name 'cdte_track' not found in struct/union cdrom_tocentry
+cd_linux.c(121): Error! E1031: Name 'cdte_format' not found in struct/union cdrom_tocentry
+cd_linux.c(121): Error! E1011: Symbol 'CDROM_MSF' has not been declared
+cd_linux.c(122): Error! E1011: Symbol 'CDROMREADTOCENTRY' has not been declared
+cd_linux.c(127): Error! E1031: Name 'cdte_ctrl' not found in struct/union cdrom_tocentry
+cd_linux.c(127): Error! E1011: Symbol 'CDROM_DATA_TRACK' has not been declared
+cd_linux.c(140): Error! E1031: Name 'cdti_trk0' not found in struct/union cdrom_ti
+cd_linux.c(141): Error! E1031: Name 'cdti_trk1' not found in struct/union cdrom_ti
+cd_linux.c(142): Error! E1031: Name 'cdti_ind0' not found in struct/union cdrom_ti
+cd_linux.c(143): Error! E1031: Name 'cdti_ind1' not found in struct/union cdrom_ti
+cd_linux.c(145): Error! E1011: Symbol 'CDROMPLAYTRKIND' has not been declared
+cd_linux.c(151): Error! E1147: Too many errors: compilation aborted

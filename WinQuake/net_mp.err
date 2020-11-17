@@ -1,0 +1,6 @@
+net_mp.c(22): Error! E1055: Unable to open 'dpmi.h'
+net_mp.c(59): Warning! W131: No prototype found for function '__dpmi_allocate_ldt_descriptors'
+net_mp.c(64): Warning! W131: No prototype found for function '__dpmi_set_segment_base_address'
+net_mp.c(68): Warning! W131: No prototype found for function '__dpmi_set_segment_limit'
+net_mp.c(272): Error! E1009: Expecting ';' but found '='
+net_mp.c(272): Error! E1063: Missing operand

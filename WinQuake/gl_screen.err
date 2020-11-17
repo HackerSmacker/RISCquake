@@ -1,0 +1,6 @@
+gl_screen.c(627): Warning! W131: No prototype found for function 'glReadPixels'
+gl_screen.c(627): Error! E1011: Symbol 'GL_RGB' has not been declared
+gl_screen.c(627): Error! E1011: Symbol 'GL_UNSIGNED_BYTE' has not been declared
+gl_screen.c(849): Warning! W131: No prototype found for function 'GL_BeginRendering'
+gl_screen.c(876): Warning! W131: No prototype found for function 'GL_Set2D'
+gl_screen.c(921): Warning! W131: No prototype found for function 'GL_EndRendering'

@@ -1,0 +1,23 @@
+snd_linux.c(24): Error! E1055: Unable to open 'sys/ioctl.h'
+snd_linux.c(25): Error! E1055: Unable to open 'sys/mman.h'
+snd_linux.c(26): Error! E1055: Unable to open 'sys/shm.h'
+snd_linux.c(27): Error! E1055: Unable to open 'sys/wait.h'
+snd_linux.c(28): Error! E1055: Unable to open 'linux/soundcard.h'
+snd_linux.c(60): Warning! W131: No prototype found for function 'ioctl'
+snd_linux.c(60): Error! E1011: Symbol 'SNDCTL_DSP_RESET' has not been declared
+snd_linux.c(69): Error! E1011: Symbol 'SNDCTL_DSP_GETCAPS' has not been declared
+snd_linux.c(77): Error! E1011: Symbol 'DSP_CAP_TRIGGER' has not been declared
+snd_linux.c(77): Error! E1011: Symbol 'DSP_CAP_MMAP' has not been declared
+snd_linux.c(84): Error! E1011: Symbol 'SNDCTL_DSP_GETOSPACE' has not been declared
+snd_linux.c(103): Error! E1011: Symbol 'SNDCTL_DSP_GETFMTS' has not been declared
+snd_linux.c(104): Error! E1011: Symbol 'AFMT_S16_LE' has not been declared
+snd_linux.c(105): Error! E1011: Symbol 'AFMT_U8' has not been declared
+snd_linux.c(115): Error! E1011: Symbol 'SNDCTL_DSP_SPEED' has not been declared
+snd_linux.c(127): Error! E1031: Name 'fragstotal' not found in struct/union audio_buf_info
+snd_linux.c(127): Error! E1031: Name 'fragsize' not found in struct/union audio_buf_info
+snd_linux.c(132): Warning! W131: No prototype found for function 'mmap'
+snd_linux.c(132): Error! E1031: Name 'fragstotal' not found in struct/union audio_buf_info
+snd_linux.c(133): Error! E1031: Name 'fragsize' not found in struct/union audio_buf_info
+snd_linux.c(133): Error! E1011: Symbol 'PROT_WRITE' has not been declared
+snd_linux.c(133): Error! E1011: Symbol 'MAP_FILE' has not been declared
+snd_linux.c(133): Error! E1147: Too many errors: compilation aborted

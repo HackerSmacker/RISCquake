@@ -1,0 +1,2 @@
+vregset.c(56): Warning! W131: No prototype found for function 'outportb'
+vregset.c(63): Warning! W131: No prototype found for function 'inportb'

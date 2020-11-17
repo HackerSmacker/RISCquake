@@ -1,0 +1,152 @@
+sys_dos.c(27): Error! E1055: Unable to open 'dir.h'
+sys_dos.c(34): Error! E1055: Unable to open 'dpmi.h'
+sys_dos.c(35): Error! E1055: Unable to open 'sys/nearptr.h'
+sys_dos.c(61): Error! E1072: Storage class disagrees with previous definition of 'isDedicated'
+sys_dos.c(61): Note! I2002: 'isDedicated' defined in: quakedef.h(324)
+sys_dos.c(67): Error! E1009: Expecting ',' or ';' but found '__asm__'
+sys_dos.c(67): Error! E1009: Expecting ')' but found 'start'
+sys_dos.c(67): Error! E1026: Invalid declarator
+sys_dos.c(67): Error! E1009: Expecting ',' but found 'start'
+sys_dos.c(67): Error! E1026: Invalid declarator
+sys_dos.c(67): Error! E1009: Expecting ',' but found ')'
+sys_dos.c(67): Error! E1026: Invalid declarator
+sys_dos.c(102): Error! E1024: Declared symbol 'scantokey' is not in parameter list
+sys_dos.c(102): Error! E1009: Expecting ',' but found '='
+sys_dos.c(103): Error! E1026: Invalid declarator
+sys_dos.c(103): Error! E1076: Missing semicolon at end of declaration
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(106): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(107): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(108): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(109): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(110): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(111): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(112): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(113): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(114): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(115): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(116): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(117): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(118): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(119): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(120): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(121): Warning! W111: Meaningless use of an expression
+sys_dos.c(122): Warning! W111: Meaningless use of an expression
+sys_dos.c(122): Error! E1009: Expecting ';' but found '}'
+sys_dos.c(122): Warning! W107: Missing return value for function '__asm__'
+sys_dos.c(179): Error! E1011: Symbol '__dpmi_regs' has not been declared
+sys_dos.c(179): Error! E1009: Expecting ';' but found 'r'
+sys_dos.c(179): Error! E1011: Symbol 'r' has not been declared
+sys_dos.c(181): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+sys_dos.c(182): Warning! W131: No prototype found for function '__dpmi_int'
+sys_dos.c(184): Error! E1147: Too many errors: compilation aborted

@@ -1,0 +1,4 @@
+net_bw.c(24): Error! E1055: Unable to open 'dpmi.h'
+net_bw.c(531): Warning! W131: No prototype found for function 'htons'
+net_bw.c(597): Warning! W131: No prototype found for function 'ntohs'
+net_bw.c(645): Warning! W131: No prototype found for function 'htonl'

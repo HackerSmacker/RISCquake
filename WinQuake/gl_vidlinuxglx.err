@@ -1,0 +1,24 @@
+gl_vidlinuxglx.c(20): Error! E1055: Unable to open 'termios.h'
+gl_vidlinuxglx.c(21): Error! E1055: Unable to open 'sys/ioctl.h'
+gl_vidlinuxglx.c(23): Error! E1055: Unable to open 'sys/vt.h'
+gl_vidlinuxglx.c(28): Error! E1055: Unable to open 'dlfcn.h'
+gl_vidlinuxglx.c(32): Error! E1055: Unable to open 'GL/glx.h'
+gl_vidlinuxglx.c(34): Error! E1055: Unable to open 'X11/keysym.h'
+gl_vidlinuxglx.c(35): Error! E1055: Unable to open 'X11/cursorfont.h'
+gl_vidlinuxglx.c(37): Error! E1055: Unable to open 'X11/extensions/xf86dga.h'
+gl_vidlinuxglx.c(38): Error! E1055: Unable to open 'X11/extensions/xf86vmode.h'
+gl_vidlinuxglx.c(43): Error! E1022: Missing or misspelled data type near 'Display'
+gl_vidlinuxglx.c(45): Error! E1022: Missing or misspelled data type near 'Window'
+gl_vidlinuxglx.c(46): Error! E1022: Missing or misspelled data type near 'GLXContext'
+gl_vidlinuxglx.c(46): Warning! W102: Type mismatch (warning)
+gl_vidlinuxglx.c(46): Note! I2003: source conversion type is 'void *'
+gl_vidlinuxglx.c(46): Note! I2004: target conversion type is 'int'
+gl_vidlinuxglx.c(76): Error! E1022: Missing or misspelled data type near 'XF86VidModeModeInfo'
+gl_vidlinuxglx.c(86): Error! E1011: Symbol 'GL_LINEAR' has not been declared
+gl_vidlinuxglx.c(86): Error! E1054: Expression must be constant
+gl_vidlinuxglx.c(102): Error! E1009: Expecting ',' but found '*'
+gl_vidlinuxglx.c(102): Error! E1116: An id list not allowed except for function definition
+gl_vidlinuxglx.c(119): Error! E1009: Expecting ',' but found '*'
+gl_vidlinuxglx.c(124): Error! E1011: Symbol 'KeySym' has not been declared
+gl_vidlinuxglx.c(124): Error! E1009: Expecting ';' but found 'keysym'
+gl_vidlinuxglx.c(124): Error! E1147: Too many errors: compilation aborted

@@ -1,0 +1,2 @@
+vid_dos.c(29): Error! E1055: Unable to open 'dpmi.h'
+vid_dos.c(30): Error! E1055: Unable to open 'go32.h'

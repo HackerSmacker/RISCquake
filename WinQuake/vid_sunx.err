@@ -1,0 +1,23 @@
+vid_sunx.c(31): Error! E1055: Unable to open 'sys/ipc.h'
+vid_sunx.c(32): Error! E1055: Unable to open 'sys/shm.h'
+vid_sunx.c(33): Error! E1055: Unable to open 'X11/Xlib.h'
+vid_sunx.c(34): Error! E1055: Unable to open 'X11/Xutil.h'
+vid_sunx.c(35): Error! E1055: Unable to open 'X11/Xatom.h'
+vid_sunx.c(36): Error! E1055: Unable to open 'X11/keysym.h'
+vid_sunx.c(37): Error! E1055: Unable to open 'X11/extensions/XShm.h'
+vid_sunx.c(114): Error! E1022: Missing or misspelled data type near 'Display'
+vid_sunx.c(114): Warning! W132: No storage class or type specified
+vid_sunx.c(117): Error! E1011: Symbol 'KeyPressMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'KeyReleaseMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'ButtonPressMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'ButtonReleaseMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'PointerMotionMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'EnterWindowMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'LeaveWindowMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'VisibilityChangeMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'ExposureMask' has not been declared
+vid_sunx.c(117): Error! E1011: Symbol 'StructureNotifyMask' has not been declared
+vid_sunx.c(117): Error! E1054: Expression must be constant
+vid_sunx.c(118): Error! E1022: Missing or misspelled data type near 'Window'
+vid_sunx.c(118): Warning! W132: No storage class or type specified
+vid_sunx.c(123): Error! E1147: Too many errors: compilation aborted

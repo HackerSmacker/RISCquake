@@ -1,0 +1,32 @@
+in_sun.c(29): Error! E1055: Unable to open 'sys/ipc.h'
+in_sun.c(30): Error! E1055: Unable to open 'sys/shm.h'
+in_sun.c(31): Error! E1055: Unable to open 'X11/Xlib.h'
+in_sun.c(32): Error! E1055: Unable to open 'X11/Xutil.h'
+in_sun.c(33): Error! E1055: Unable to open 'X11/Xatom.h'
+in_sun.c(34): Error! E1055: Unable to open 'X11/keysym.h'
+in_sun.c(49): Error! E1022: Missing or misspelled data type near 'Display'
+in_sun.c(53): Error! E1022: Missing or misspelled data type near 'Window'
+in_sun.c(79): Warning! W131: No prototype found for function 'CheckMouseState'
+in_sun.c(84): Warning! W131: No prototype found for function 'XSelectInput'
+in_sun.c(84): Error! E1011: Symbol 'PointerMotionMask' has not been declared
+in_sun.c(85): Warning! W131: No prototype found for function 'XWarpPointer'
+in_sun.c(85): Error! E1011: Symbol 'None' has not been declared
+in_sun.c(99): Warning! W131: No prototype found for function 'XGetPointerControl'
+in_sun.c(104): Warning! W131: No prototype found for function 'XAutoRepeatOff'
+in_sun.c(105): Warning! W131: No prototype found for function 'XGrabKeyboard'
+in_sun.c(105): Error! E1011: Symbol 'True' has not been declared
+in_sun.c(105): Error! E1011: Symbol 'GrabModeAsync' has not been declared
+in_sun.c(105): Error! E1011: Symbol 'CurrentTime' has not been declared
+in_sun.c(106): Warning! W131: No prototype found for function 'XGrabPointer'
+in_sun.c(107): Error! E1011: Symbol 'PointerMotionMask' has not been declared
+in_sun.c(107): Error! E1011: Symbol 'ButtonPressMask' has not been declared
+in_sun.c(107): Error! E1011: Symbol 'ButtonReleaseMask' has not been declared
+in_sun.c(108): Error! E1011: Symbol 'None' has not been declared
+in_sun.c(122): Warning! W131: No prototype found for function 'XChangePointerControl'
+in_sun.c(122): Error! E1011: Symbol 'True' has not been declared
+in_sun.c(125): Warning! W131: No prototype found for function 'XUngrabPointer'
+in_sun.c(125): Error! E1011: Symbol 'CurrentTime' has not been declared
+in_sun.c(126): Warning! W131: No prototype found for function 'XUngrabKeyboard'
+in_sun.c(127): Warning! W131: No prototype found for function 'XAutoRepeatOn'
+in_sun.c(155): Error! E1011: Symbol 'True' has not been declared
+in_sun.c(158): Error! E1147: Too many errors: compilation aborted

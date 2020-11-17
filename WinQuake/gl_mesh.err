@@ -1,0 +1,21 @@
+gl_mesh.c(67): Error! E1011: Symbol 'triangles' has not been declared
+gl_mesh.c(67): Error! E1045: Subscript on non-array
+gl_mesh.c(81): Error! E1045: Subscript on non-array
+gl_mesh.c(81): Error! E1011: Symbol 'pheader' has not been declared
+gl_mesh.c(81): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+gl_mesh.c(115): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+gl_mesh.c(136): Error! E1011: Symbol 'triangles' has not been declared
+gl_mesh.c(136): Error! E1045: Subscript on non-array
+gl_mesh.c(151): Error! E1045: Subscript on non-array
+gl_mesh.c(151): Error! E1011: Symbol 'pheader' has not been declared
+gl_mesh.c(151): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+gl_mesh.c(182): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+gl_mesh.c(220): Error! E1011: Symbol 'pheader' has not been declared
+gl_mesh.c(220): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+gl_mesh.c(264): Error! E1011: Symbol 'stverts' has not been declared
+gl_mesh.c(264): Error! E1045: Subscript on non-array
+gl_mesh.c(265): Error! E1045: Subscript on non-array
+gl_mesh.c(266): Error! E1011: Symbol 'triangles' has not been declared
+gl_mesh.c(266): Error! E1045: Subscript on non-array
+gl_mesh.c(266): Error! E1045: Subscript on non-array
+gl_mesh.c(267): Error! E1147: Too many errors: compilation aborted

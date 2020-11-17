@@ -1,0 +1,27 @@
+conproc.c(22): Error! E1055: Unable to open 'windows.h'
+conproc.h(35): Error! E1009: Expecting ',' but found 'hFile'
+conproc.h(35): Error! E1116: An id list not allowed except for function definition
+conproc.c(26): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(26): Warning! W132: No storage class or type specified
+conproc.c(27): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(27): Warning! W132: No storage class or type specified
+conproc.c(28): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(28): Warning! W132: No storage class or type specified
+conproc.c(29): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(29): Warning! W132: No storage class or type specified
+conproc.c(30): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(30): Warning! W132: No storage class or type specified
+conproc.c(31): Error! E1022: Missing or misspelled data type near 'HANDLE'
+conproc.c(31): Warning! W132: No storage class or type specified
+conproc.c(33): Error! E1022: Missing or misspelled data type near 'DWORD'
+conproc.c(33): Error! E1009: Expecting ',' but found 'dwNichts'
+conproc.c(33): Error! E1116: An id list not allowed except for function definition
+conproc.c(34): Error! E1022: Missing or misspelled data type near 'LPVOID'
+conproc.c(34): Error! E1009: Expecting ',' but found 'hfileBuffer'
+conproc.c(34): Error! E1116: An id list not allowed except for function definition
+conproc.c(35): Error! E1009: Expecting ',' but found 'pBuffer'
+conproc.c(35): Error! E1116: An id list not allowed except for function definition
+conproc.c(36): Error! E1022: Missing or misspelled data type near 'BOOL'
+conproc.c(37): Error! E1022: Missing or misspelled data type near 'BOOL'
+conproc.c(38): Error! E1022: Missing or misspelled data type near 'BOOL'
+conproc.c(38): Error! E1147: Too many errors: compilation aborted
